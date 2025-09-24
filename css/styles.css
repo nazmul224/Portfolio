@@ -4470,13 +4470,14 @@ td:last-child {
             background-color: #f8f9fa;
             color: #333;
             line-height: 1.6;
-            padding: 20px;
+   
         }
         
 
  .container {
             max-width: 1200px;
             margin: 0 auto;
+            padding: 20px;
         }
         
         /* Header styles */
@@ -4488,7 +4489,7 @@ td:last-child {
         
         h1 {
             font-size: 2.5rem;
-            color: #000000;
+            color: #2c3e50;
             margin-bottom: 10px;
         }
         
@@ -4518,7 +4519,7 @@ td:last-child {
         
         .blog-image {
             width: 100%;
-            height: 400px;
+            height: 300px;
             object-fit: cover;
             display: block;
         }
